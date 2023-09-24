@@ -2,8 +2,8 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   components: [
-    { path: "~/components/decoration", pathPrefix: false },
-
+    { path: "~/components/landing-page/decoration", pathPrefix: false },
+    { path: "~/components/landing-page/section", pathPrefix: false },
     "~/components",
   ],
 
