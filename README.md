@@ -1,7 +1,3 @@
-Wah, pakai Nuxt dan TailwindCSS juga, nih? Mantap! Oke, ini rekomendasi `README.md` buat proyek kamu. Jangan lupa, Prettier harus aktif ya, jadi kode jadi lebih rapi.
-
----
-
 # 🌐 Landing Page UNIICODE
 
 Proyek ini adalah landing page UNIICODE yang dibangun menggunakan Nuxt.js dan TailwindCSS.
@@ -56,6 +52,3 @@ Kami menggunakan [Prettier](https://prettier.io/) untuk formatting kode. Harap p
 
 Lihat [CONTRIBUTING.md](./CONTRIBUTING.md) untuk panduan berkontribusi.
 
----
-
-Nah gitu, Dim, udah cukup lengkap belum menurutmu? Tambahin apa lagi, nih? 🤔
