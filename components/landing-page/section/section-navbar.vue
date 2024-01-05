@@ -1,5 +1,5 @@
 <template>
-  <nav class="border border-black w-full flex justify-between p-12 text-xl">
+  <nav class="border border-black w-full flex justify-between p-12 text-xl bg-transparent backdrop-blur-sm">
     <div><icons-uc-logo /></div>
     <div class="flex justify-between w-full max-w-lg">
       <a href="#" class="block">Home</a>
