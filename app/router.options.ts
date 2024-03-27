@@ -7,7 +7,7 @@ export default <RouterConfig>{
       name: "home",
       path: "/",
       component: () =>
-        import("~/pages/landing-page/index.vue").then((r) => r.default || r),
+        import("~/pages/home/index.vue").then((r) => r.default || r),
     },
   ],
 };
