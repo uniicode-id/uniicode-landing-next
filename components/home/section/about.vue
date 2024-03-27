@@ -1,6 +1,6 @@
 <template>
   <main class="p-2 border border-black">
-    <decor-about-bg />
+    <home-decoration-about-background />
 
     <div class="text-center">
       <h2 class="text-5xl font-bold">WHAT ABOUT OF UNIICODE?</h2>

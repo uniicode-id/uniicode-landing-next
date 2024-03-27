@@ -1,11 +1,11 @@
 <template>
   <div class="landing-container bg-uc-7 text-slate-100">
-    <section-navbar class="fixed top-0 w-full" />
-    <section-header />
-    <section-about />
-    <section-member />
-    <section-partner />
-    <section-footer />
+    <home-section-navbar class="fixed top-0 w-full" />
+    <home-section-header />
+    <home-section-about />
+    <home-section-member />
+    <home-section-partner />
+    <home-section-footer />
   </div>
 </template>
 
