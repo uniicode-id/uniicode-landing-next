@@ -1,5 +1,5 @@
 <template>
-  <footer class="p-4 border border-black">
+  <footer class="p-4 border border-black mt-28">
     <div class="flex gap-2 justify-between max-w-7xl mx-auto">
       <div>
         <logo-uniicode></logo-uniicode>

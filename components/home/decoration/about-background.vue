@@ -1,4 +1,4 @@
 <template>
-  <div>Dekorasi Section About</div>
+  <div></div>
 </template>
 <script setup lang="ts"></script>

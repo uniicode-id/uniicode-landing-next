@@ -1,5 +1,5 @@
 <template>
-  <section class="p-4 border border-black">
+  <section class="p-4 border border-black mt-32">
     <home-decoration-member-background></home-decoration-member-background>
 
     <h1 class="text-5xl text-center font-bold mb-16">MEMBERS SPOTLIGHT</h1>
@@ -9,7 +9,7 @@
         tempora quam neque ab eos sint non iusto ipsam delectus obcaecati culpa,
         quod reiciendis laboriosam, ea tenetur porro consequatur inventore?
       </p>
-      <p class="text-6xl font-bold m-0 p-0">230+</p>
+      <!-- <p class="text-6xl font-bold m-0 p-0">230+</p> -->
     </section>
     <section class="flex flex-col gap-3 w-full mt-32">
       <section class="flex flex-nowrap overflow-x-auto scrollbar-hide gap-3">
